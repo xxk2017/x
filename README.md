@@ -4,14 +4,15 @@
   </tr>
   <tr>
    <td align=center>
+❤❤致有缘人的一封信❤❤<br/>
   </tr>
-    <tr>
-     <td align=left>
+  <tr>
+<td align=left>
 亲爱的朋友，您好： <br/>
 <br/>
 ——茫茫人海，万水千山，此信能辗转至您手中，即是有缘。惜缘即惜福，无论您最终如何对待此信，都请您耐心看完。毕竟“给人一个空间，收获的可能是整片蓝天。” <br/>
 <br/>
- -——对每个中国人而言，“法轮功”一词一定不会陌生。若问您的看法？不知脑中是否出现天安门自焚、傅怡彬杀人等字眼？然而，法轮功真相究竟如何？请您看看下面的三个问题，就会一目了然了： <br/>
+——对每个中国人而言，“法轮功”一词一定不会陌生。若问您的看法？不知脑中是否出现天安门自焚、傅怡彬杀人等字眼？然而，法轮功真相究竟如何？请您看看下面的三个问题，就会一目了然了： <br/>
 <br/> 
 一、法轮功也称“法轮大法”，自李洪志师父1992年传法至1999中共开始迫害，传法七年，修炼者一亿。然而，七年之间，未发生一起自焚、杀人，却为何在99年迫害后，恶性事件频频发生？（2001年1月天安门自焚，2001年5月傅怡彬杀人，2005年6月浙江乞丐毒杀案……）。如果法轮功致使习炼者痴迷、疯狂，为什么迫害前没有恶性事件发生？如果有，为什么不查个水落石出，使百姓信服？看来只有两种可能：要么法轮功学员极其“配合”中共打压，打压后才纷纷出现异状；要么就是欲加之罪，何患无辞？<br/>
 <br/> 
@@ -98,11 +99,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">❤❤❤请点击在线快速办理❤❤❤</a><br/>
    </tr>
   <tr>
-<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E2.jpg"/></td>
-  </tr>
-  <tr>
- <td align=center>
-如打开慢，缓冲稍等或刷新<br/>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3%E9%80%80%E9%80%83%E5%A4%A7%E7%81%BE.jpg"/>      
@@ -151,7 +148,6 @@
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
 苹果用户复制到自带浏览器打开<br/>
-    </td>
   </tr>
   <tr>
       <td align=center>
@@ -168,6 +164,9 @@
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
+  </tr>
+  <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>
