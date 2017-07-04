@@ -17,6 +17,7 @@
 ◆2017国人翻墙最人气软件网门<br/>
 ◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 ◆下载网门安卓版：更快更方便<br/>
+◆https://git.io/vQgT6 本页短网址<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E8%87%B4%E6%9C%89%E7%BC%98%E4%BA%BA%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1.jpg" /></td>
@@ -151,7 +152,7 @@
   </tr>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
-推荐谷歌♦火狐浏览器♦国产浏览器易干扰<br/>
+推荐谷歌/火狐浏览器♦国产浏览器易干扰<br/>
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
