@@ -7,7 +7,7 @@
   </tr>
   <tr>
 <td align=left>◆2017国人翻墙最人气网站<br/>
-◆网门 https://git.io/ogate<br/>
+◆网门 https://git.io/ogate2<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
@@ -165,7 +165,7 @@
   <tr>
 <td align=center>网门 網門<br/>
 欢迎来到固定页面，请收藏浏览器<br/>
-❤ https://git.io/ogate ❤ <br/>
+❤ https://git.io/ogate2 ❤ <br/>
 适合苹果、安卓、平板、电脑<br/>
 </tr>
 <tr>
@@ -193,7 +193,7 @@
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97%E6%96%B0.jpg"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
@@ -206,10 +206,8 @@
   <tr>
 <td align=left>
 ◆全球免费翻墙最人气网站：网门<br/> 
-网门网页版 https://git.io/ogate 热门推荐<br/>
-网门安卓版 https://git.io/ogatea<br/>
-网门桌面版 https://git.io/ogatew<br/>
-谷歌桌面版 https://git.io/ogatecw<br/>
+网门网页版 https://git.io/ogate2 热门推荐<br/>
+网门安卓版 https://git.io/ogatea2<br/>
 ◆全球最人气翻墙软件<br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
@@ -233,9 +231,9 @@ https://git.io/vQowA<br/>
 无界安卓版 https://git.io/v6836 <br/>
 无界电脑版 https://git.io/vEJlj <br/>
 ◆翻墙小技巧：<br/>
-II苹果用户，用自带浏览器收藏https://git.io/ogate 翻墙直连全球真实资讯<br/>
+II苹果用户，用自带浏览器收藏https://git.io/ogate2 翻墙直连全球真实资讯<br/>
 II苹果用户最佳免费翻墙大全：https://git.io/vQo02<br/>
-II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 随时浏览全球真实资讯<br/>
+II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate2 随时浏览全球真实资讯<br/>
 II安卓、电脑用户，安装并成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等<br/>
 II安卓、电脑用户，安装并成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
 II更多翻墙大全 https://git.io/jww<br/>
